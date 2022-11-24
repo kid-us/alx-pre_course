@@ -1,1 +1,1 @@
-First Readme inside alx-pre-course directory
+First Readme inside 0x01-git directory
